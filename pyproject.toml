@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools"]
+
+[project]
+name = "scholaretl"
+authors = [
+    {name = "Blue Brain Project, EPFL"},
+]
+description = "ETL for scientific papers"
+readme = "README.md"
+requires-python = ">=3.10"
+dynamic = ["version"]
+dependencies = []
+
+[tool.setuptools.dynamic]
+version = {attr = "scholaretl.__version__"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+namespaces = false

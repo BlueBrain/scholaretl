@@ -13,4 +13,4 @@ RUN rm -rf /code
 WORKDIR /
 
 EXPOSE 8080
-CMD python -c "from scholaretl import __version__; print(__version__)"
+CMD scholaretl-api --host 0.0.0.0 --port 8080

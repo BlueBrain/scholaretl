@@ -1,0 +1,53 @@
+stages:
+  - Static Analysis
+  - Unit tests and type annotations
+  - Build Documentation
+default:
+  before_script:
+    - python -m venv --prompt ci_venv venv
+    - source venv/bin/activate
+    - pip install -U pip setuptools wheel
+    - python -V
+lint:
+  stage: Static Analysis
+  image: python:3.10
+  script:
+    - >
+      pip install
+      bandit[toml]==1.7.4
+      ruff==0.5.5
+
+    - bandit -qr -c pyproject.toml src/
+    - ruff check src/ tests/
+    - ruff format --check src/ tests
+
+pytest-and-mypy:
+  stage: Unit tests and type annotations
+  image: python:3.10
+  coverage: '/^TOTAL.+?(\d+\%)$/'
+  script:
+    - pip install mypy==1.8.0
+    - pip install -e ".[dev,external]"
+    - mypy src/
+    - pytest --color=yes -m "not real_request"
+
+build-docs:
+  stage: Build Documentation
+  image: python:3.10
+  script:
+    - pip install -i https://bbpteam.epfl.ch/repository/devpi/simple docs-internal-upload
+    - pip install pymdown-extensions
+    - pip install mkdocs
+    - pip install mkdocs-material
+    - pip install mkdocstrings
+    - export VERSION=$(git describe --tags | cut -d'-' -f1 | sed 's/v//')
+    - sed "s/<VERSION_TEMPLATE>/$VERSION/" metadata.md > metadata_temp.md
+    - mv metadata_temp.md metadata.md
+    - mkdocs build
+  variables:
+    DOCS_INTERNAL_TOKEN: $DOCS_INTERNAL_TOKEN
+  artifacts:
+    paths:
+      - site
+  rules:
+     - if: $CI_COMMIT_TAG

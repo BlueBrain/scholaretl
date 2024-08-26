@@ -1,9 +1,7 @@
 ---
-name: bbs-etl
-repository: git@bbpgitlab.epfl.ch:ml/bbs-etl.git
+name: scholaretl
+repository: git@github.com:BlueBrain/scholaretl.git
 version: <VERSION_TEMPLATE>
 description: None
-license: None
-maintainers: bbp-ml
-updated: None
+license: Apache License Version 2.0
 ---

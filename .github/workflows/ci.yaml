@@ -70,5 +70,7 @@ jobs:
           pip install --upgrade pip
           pip install mypy==1.8.0
           pip install -e ".[dev,external]"
+      - name: Running mypy and tests
+        run: |
           mypy src/
           pytest --color=yes -m "not real_request"

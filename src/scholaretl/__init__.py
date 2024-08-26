@@ -1,3 +1,3 @@
 """Scholar ETL."""
 
-__version__ = "1.8.4"
+__version__ = "v0.0.3"

@@ -1,0 +1,14 @@
+# Ignore all but src/
+*
+!src/scholaretl/*
+!pyproject.toml
+
+# Ignore the __pycache__ that are in the whitelisted folders.
+__pycache__
+*/__pycache__/
+*/*/__pycache__/
+*/*/*/__pycache__/
+
+# Ignore files in app
+src/scholaretl/app/.coverage
+tests/

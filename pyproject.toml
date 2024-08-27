@@ -6,11 +6,38 @@ name = "scholaretl"
 authors = [
     {name = "Blue Brain Project, EPFL"},
 ]
-description = "ETL for scientific papers"
+description = "ETL for parsing scientific papers."
 readme = "README.md"
 requires-python = ">=3.10"
 dynamic = ["version"]
-dependencies = []
+dependencies = [
+    "asgi-correlation-id",
+    "dateparser",
+    "defusedxml",
+    "fastapi",
+    "httpx",
+    "pydantic >= 2",
+    "pydantic-settings",
+    "python-multipart",
+    "pypdf",
+    "python-multipart",
+    "uvicorn",
+]
+
+[project.optional-dependencies]
+dev = [
+    "bandit[toml]",
+    "mypy",
+    "pytest",
+    "pytest-cov",
+    "ruff",
+    "types-dateparser",
+]
+doc = ["mkdocs", "mkdocs-material", "mkdocstrings[python]"]
+
+[project.scripts]
+parse = "scholaretl.entrypoints.parse:main"
+scholaretl-api = "scholaretl.entrypoints.scholaretl_api:main"
 
 [tool.setuptools.dynamic]
 version = {attr = "scholaretl.__version__"}
@@ -18,3 +45,41 @@ version = {attr = "scholaretl.__version__"}
 [tool.setuptools.packages.find]
 where = ["src"]
 namespaces = false
+
+
+[tool.bandit]
+exclude_dirs = ["tests", "app/app_tests"]
+[tool.ruff]
+line-length = 88
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I"]
+
+
+[tool.mypy]
+python_version = "3.10"
+ignore_missing_imports = true
+no_implicit_optional = true
+check_untyped_defs = true
+strict_equality = true
+warn_redundant_casts = true
+warn_unused_ignores = true
+show_error_codes = true
+disallow_any_generics = true
+disallow_incomplete_defs = true
+disallow_untyped_defs = true
+plugins = [
+  "pydantic.mypy"
+]
+
+[tool.pytest.ini_options]
+minversion = "6.0"
+testpaths = [
+    "tests",
+]
+markers = [
+    "slow: marks tests as slow",
+    "real_request: doing real requests",
+]
+addopts = "--cov=src/ -v --cov-report=term-missing --durations=20 --no-cov-on-fail"

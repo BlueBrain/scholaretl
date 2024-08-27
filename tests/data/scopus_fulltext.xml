@@ -1,0 +1,2327 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0093934X00922934</prism:url><dc:identifier>doi:10.1006/brln.2000.2293</dc:identifier><eid>1-s2.0-S0093934X00922934</eid><prism:doi>10.1006/brln.2000.2293</prism:doi><pii>S0093-934X(00)92293-4</pii><dc:title>The Rise and Fall of Frequency and Imageability: Noun and Verb Production in Semantic Dementia </dc:title><prism:publicationName>Brain and Language</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>0093934X</prism:issn><prism:volume>73</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>17</prism:startingPage><prism:endingPage>49</prism:endingPage><prism:pageRange>17-49</prism:pageRange><prism:number>1</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2000-06-01</prism:coverDate><prism:coverDisplayDate>1 June 2000</prism:coverDisplayDate><prism:copyright>Copyright © 2000 Academic Press. All rights reserved.</prism:copyright><prism:publisher>Academic Press.</prism:publisher><dc:creator>Bird, Helen</dc:creator><dc:creator>Lambon Ralph, Matthew A.</dc:creator><dc:creator>Patterson, Karalyn</dc:creator><dc:creator>Hodges, John R.</dc:creator><dc:description>
+                  This study examines the impact of progressive degeneration of conceptual knowledge on the content words used in connected speech elicited using the Cookie Theft picture description (Goodglass &amp; Kaplan, 1983). We began with an analysis of control subjects' descriptions with regard to word types and their frequency and imageability. Because the impairment of conceptual knowledge in semantic dementia is graded by concept familiarity, we created a model of a standardized normal Cookie Theft description that was then progressively degraded by the systematic removal of lower bands of word frequency. We drew two main predictions from this model: reduced availability of the lower bands of word frequency should result in (a) an apparent deficit for noun retrieval in relation to verb retrieval and (b) an apparent reverse imageability effect. Results from a longitudinal study, in which three patients with semantic dementia each described the Cookie Theft picture on three occasions during the progression of their disease, confirmed these predictions. An additional cross-sectional analysis, adding narratives from a larger number of cases, demonstrated that the decline in ability to produce suitable words for the picture description is closely related to the extent of semantic impairment as measured in tests of word comprehension and production. Both verbs and nouns are affected by the degradation of semantic memory; the fact that the impairment to noun production is manifested earlier and more catastrophically may be attributed to the relatively lower frequency of these terms.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Key Words: semantic dementia</dcterms:subject><dcterms:subject>progressive aphasia</dcterms:subject><dcterms:subject>nouns</dcterms:subject><dcterms:subject>verbs</dcterms:subject><dcterms:subject>frequency</dcterms:subject><dcterms:subject>imageability</dcterms:subject><dcterms:subject>narrative</dcterms:subject><dcterms:subject>spontaneous speech</dcterms:subject><dcterms:subject>Cookie Theft</dcterms:subject><dcterms:subject>picture description</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0093934X00922934" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0093934X00922934" rel="scidir"/></coredata><scopus-id>0343618602</scopus-id><scopus-eid>2-s2.0-0343618602</scopus-eid><pubmed-id>10872636</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/0343618602" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>272554</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291726</xocs:ssid>
+         <xocs:ssid type="subj">291730</xocs:ssid>
+         <xocs:ssid type="subj">291738</xocs:ssid>
+         <xocs:ssid type="subj">291743</xocs:ssid>
+         <xocs:ssid type="subj">291782</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Brain and Language</xocs:srctitle>
+      <xocs:normalized-srctitle>BRAINLANGUAGE</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20020326">2002-03-26</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20020525">2002-05-25</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-02-05T03:05:03</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0093934X00922934</xocs:eid>
+      <xocs:pii-formatted>S0093-934X(00)92293-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0093934X00922934</xocs:pii-unformatted>
+      <xocs:doi>10.1006/brln.2000.2293</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0093934X00X00223</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T03:37:49.050334-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20000601</xocs:date-search-begin>
+      <xocs:year-nav>2000</xocs:year-nav>
+      <xocs:indexeddate epoch="1017100800">2002-03-26T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authkeywords authlast primabst pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0093-934X</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>0093934X</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>73</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>73</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 73, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>2</xocs:sort-order>
+      <xocs:first-fp>17</xocs:first-fp>
+      <xocs:last-lp>49</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>17</xocs:first-page>
+         <xocs:last-page>49</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20000601</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 June 2000</xocs:cover-date-text>
+      <xocs:cover-date-start>2000-06-01</xocs:cover-date-start>
+      <xocs:cover-date-year>2000</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2000 Academic Press. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>RISEFALLFREQUENCYIMAGEABILITYNOUNVERBPRODUCTIONINSEMANTICDEMENTIA</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>BIRD</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>H</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="reference0005">
+            <xocs:ref-normalized-surname>ARDILA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>71</xocs:ref-first-fp>
+            <xocs:ref-last-lp>78</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="oref0005"/>
+         <xocs:ref-info refid="reference0015">
+            <xocs:ref-normalized-surname>BASTIAANSE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>951</xocs:ref-first-fp>
+            <xocs:ref-last-lp>969</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0025">
+            <xocs:ref-normalized-surname>BERNDT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>107</xocs:ref-first-fp>
+            <xocs:ref-last-lp>137</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0035">
+            <xocs:ref-normalized-surname>BIRD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>187</xocs:ref-first-fp>
+            <xocs:ref-last-lp>206</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0045">
+            <xocs:ref-normalized-surname>BREEDIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>617</xocs:ref-first-fp>
+            <xocs:ref-last-lp>660</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0055">
+            <xocs:ref-normalized-surname>BREEDIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>31</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0065">
+            <xocs:ref-normalized-surname>CIPOLOTTI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>104</xocs:ref-first-fp>
+            <xocs:ref-last-lp>110</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0075">
+            <xocs:ref-normalized-surname>CROISILE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>19</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0085">
+            <xocs:ref-normalized-surname>DANIELE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>87</xocs:ref-first-fp>
+            <xocs:ref-last-lp>94</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0095">
+            <xocs:ref-normalized-surname>DANIELE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1325</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1341</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0105">
+            <xocs:ref-normalized-surname>ELLIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>111</xocs:ref-first-fp>
+            <xocs:ref-last-lp>144</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0115">
+            <xocs:ref-normalized-surname>EVANS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>13</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0125">
+            <xocs:ref-normalized-surname>GAINOTTI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>247</xocs:ref-first-fp>
+            <xocs:ref-last-lp>264</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0135">
+            <xocs:ref-normalized-surname>GILES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>395</xocs:ref-first-fp>
+            <xocs:ref-last-lp>408</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0145">
+            <xocs:ref-normalized-surname>GOODGLASS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ASSESSMENTAPHASIARELATEDDISORDERS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0155">
+            <xocs:ref-normalized-surname>GRAHAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>77</xocs:ref-first-fp>
+            <xocs:ref-last-lp>89</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0165">
+            <xocs:ref-normalized-surname>GRAHAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>801</xocs:ref-first-fp>
+            <xocs:ref-last-lp>837</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0175">
+            <xocs:ref-normalized-surname>GRAHAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>25</xocs:ref-first-fp>
+            <xocs:ref-last-lp>38</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0185">
+            <xocs:ref-normalized-surname>GRAHAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>975</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1005</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0195">
+            <xocs:ref-normalized-surname>HESKETH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>49</xocs:ref-first-fp>
+            <xocs:ref-last-lp>80</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0205">
+            <xocs:ref-normalized-surname>HODGES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>463</xocs:ref-first-fp>
+            <xocs:ref-last-lp>495</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0215">
+            <xocs:ref-normalized-surname>HODGES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>441</xocs:ref-first-fp>
+            <xocs:ref-last-lp>459</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0225">
+            <xocs:ref-normalized-surname>HODGES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>511</xocs:ref-first-fp>
+            <xocs:ref-last-lp>524</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0235">
+            <xocs:ref-normalized-surname>HODGES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1783</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1806</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0245">
+            <xocs:ref-normalized-surname>HOWARD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PYRAMIDSPALMTREESTEST</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0255">
+            <xocs:ref-normalized-surname>HOWARD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>263</xocs:ref-first-fp>
+            <xocs:ref-last-lp>276</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ADVANCESINNEUROLOGYVOL42PROGRESSINAPHASIOLOGY</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>VARIABILITYCONSISTENCYINPICTURENAMINGBYAPHASICPATIENTS</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0265">
+            <xocs:ref-normalized-surname>JONKERS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>245</xocs:ref-first-fp>
+            <xocs:ref-last-lp>256</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0275">
+            <xocs:ref-normalized-surname>KAY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>613</xocs:ref-first-fp>
+            <xocs:ref-last-lp>629</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0285">
+            <xocs:ref-normalized-surname>KITCHENER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>589</xocs:ref-first-fp>
+            <xocs:ref-last-lp>607</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0295">
+            <xocs:ref-normalized-surname>KNOTT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1165</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1218</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0305">
+            <xocs:ref-normalized-surname>LAMBONRALPH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>775</xocs:ref-first-fp>
+            <xocs:ref-last-lp>784</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="oref0010"/>
+         <xocs:ref-info refid="reference0315">
+            <xocs:ref-normalized-surname>MARSHALL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PSYCHOLINGUISTICSSERIES</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>DISORDERSINEXPRESSIONLANGUAGE</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0325">
+            <xocs:ref-normalized-surname>MARSHALL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>251</xocs:ref-first-fp>
+            <xocs:ref-last-lp>260</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0335">
+            <xocs:ref-normalized-surname>MARSHALL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>159</xocs:ref-first-fp>
+            <xocs:ref-last-lp>183</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0345">
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>MRCPSYCHOLINGUISTICDATABASE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0355">
+            <xocs:ref-normalized-surname>MENDEZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>923</xocs:ref-first-fp>
+            <xocs:ref-last-lp>932</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0365">
+            <xocs:ref-normalized-surname>MICELI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>BATTERIAPERLANALISIDEIDEFICITAFASICI</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0375">
+            <xocs:ref-normalized-surname>MUMMERY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>61</xocs:ref-first-fp>
+            <xocs:ref-last-lp>73</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0385">
+            <xocs:ref-normalized-surname>ROCHON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10</xocs:ref-first-fp>
+            <xocs:ref-last-lp>13</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0395">
+            <xocs:ref-normalized-surname>SAFFRAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>440</xocs:ref-first-fp>
+            <xocs:ref-last-lp>479</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0405">
+            <xocs:ref-normalized-surname>SNOWDEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>167</xocs:ref-first-fp>
+            <xocs:ref-last-lp>182</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0415">
+            <xocs:ref-normalized-surname>TOMOEDA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>204</xocs:ref-first-fp>
+            <xocs:ref-last-lp>215</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0425">
+            <xocs:ref-normalized-surname>TYLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>426</xocs:ref-first-fp>
+            <xocs:ref-last-lp>476</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0435">
+            <xocs:ref-normalized-surname>TYLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1313</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1323</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0445">
+            <xocs:ref-normalized-surname>WARRINGTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>635</xocs:ref-first-fp>
+            <xocs:ref-last-lp>657</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="reference0455">
+            <xocs:ref-normalized-surname>ZINGESER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>14</xocs:ref-first-fp>
+            <xocs:ref-last-lp>32</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>BIRDX2000X17</xocs:refkey3>
+         <xocs:refkey4lp>BIRDX2000X17X49</xocs:refkey4lp>
+         <xocs:refkey4ai>BIRDX2000X17XH</xocs:refkey4ai>
+         <xocs:refkey5>BIRDX2000X17X49XH</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0093-934X(00)92293-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0093934X00922934</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0093934X00922934</xocs:eid>
+         <xocs:doi>10.1006/brln.2000.2293</xocs:doi>
+         <xocs:cid>272554</xocs:cid>
+         <xocs:timestamp>2015-02-05T15:23:56.683057-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2000-06-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0093934X00922934-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0093934X00922934/MAIN/application/pdf/00e29751f8c739fce6eb2b0f6d92e16b/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0093934X00922934/MAIN/application/pdf/00e29751f8c739fce6eb2b0f6d92e16b/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>303558</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>33</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0093934X00922934-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0093934X00922934/PREVIEW/image/png/1dacebc6bba613f1cdefbe1b665a1407/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0093934X00922934/PREVIEW/image/png/1dacebc6bba613f1cdefbe1b665a1407/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>67913</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>YBRLN</jid>
+            <aid>92293</aid>
+            <ce:pii>S0093-934X(00)92293-4</ce:pii>
+            <ce:doi>10.1006/brln.2000.2293</ce:doi>
+            <ce:copyright type="full-transfer" year="2000">Academic Press</ce:copyright>
+         </item-info>
+         <head>
+            <ce:article-footnote>
+               <ce:label>☆</ce:label>
+               <ce:note-para>The authors thank the patients and the members of the MRC Cognition and Brain Sciences Unit Volunteer Panel for their participation in this study. We are also grateful to two anonymous reviewers for their helpful comments on an earlier version of this paper. The research was in part funded by an EPS study visit award to the first author and by an NIH grant to J. L. McClelland and K. Patterson.</ce:note-para>
+               <ce:note-para>Address correspondence and reprint requests to Helen Bird, MRC Cognition and Brain Sciences Unit, 15 Chaucer Road, Cambridge, CB2 2EF UK. E-mail: Helen.Bird@mrc-cbu.cam.ac.uk.</ce:note-para>
+            </ce:article-footnote>
+            <ce:dochead>
+               <ce:textfn>Regular Article</ce:textfn>
+            </ce:dochead>
+            <ce:title>The Rise and Fall of Frequency and Imageability: Noun and Verb Production in Semantic Dementia</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Helen</ce:given-name>
+                  <ce:surname>Bird</ce:surname>
+                  <ce:cross-ref refid="A1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Matthew A.</ce:given-name>
+                  <ce:surname>Lambon Ralph</ce:surname>
+                  <ce:cross-ref refid="A1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Karalyn</ce:given-name>
+                  <ce:surname>Patterson</ce:surname>
+                  <ce:cross-ref refid="A1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>John R.</ce:given-name>
+                  <ce:surname>Hodges</ce:surname>
+                  <ce:cross-ref refid="A1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="A2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="A1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>MRC Cognition and Brain Sciences Unit, Cambridge, United Kingdom</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="A2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>University Neurology Unit, Addenbrooke's Hospital, Cambridge, United Kingdom</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para id="simple-para0005" view="all">This study examines the impact of progressive degeneration of conceptual knowledge on the content words used in connected speech elicited using the Cookie Theft picture description (Goodglass &amp; Kaplan, 1983). We began with an analysis of control subjects' descriptions with regard to word types and their frequency and imageability. Because the impairment of conceptual knowledge in semantic dementia is graded by concept familiarity, we created a model of a standardized normal Cookie Theft description that was then progressively degraded by the systematic removal of lower bands of word frequency. We drew two main predictions from this model: reduced availability of the lower bands of word frequency should result in (a) an apparent deficit for noun retrieval in relation to verb retrieval and (b) an apparent reverse imageability effect. Results from a longitudinal study, in which three patients with semantic dementia each described the Cookie Theft picture on three occasions during the progression of their disease, confirmed these predictions. An additional cross-sectional analysis, adding narratives from a larger number of cases, demonstrated that the decline in ability to produce suitable words for the picture description is closely related to the extent of semantic impairment as measured in tests of word comprehension and production. Both verbs and nouns are affected by the degradation of semantic memory; the fact that the impairment to noun production is manifested earlier and more catastrophically may be attributed to the relatively lower frequency of these terms.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Key Words: semantic dementia</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>progressive aphasia</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>nouns</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>verbs</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>frequency</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>imageability</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>narrative</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>spontaneous speech</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Cookie Theft</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>picture description</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail>
+            <ce:bibliography id="bibliography0005" view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bibliography-sec0005">
+                  <ce:section-title>REFERENCES</ce:section-title>
+                  <ce:bib-reference id="RF1">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="reference0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Ardila</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Rosselli</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Spontaneous language production and aging: Sex and educational effects</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>International Journal of Neuroscience</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>71</sb:first-page>
+                              <sb:last-page>78</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF2">
+                     <ce:label>2</ce:label>
+                     <ce:other-ref id="oref0005">
+                        <ce:textref>Baayen, R. H, Piepenbrock, R, &amp;, van Rijn, H. 1993, The CELEX lexical database, Philadelphia, PA, Linguistics Data Consortium, Univ. of Pennsylvania. [CD-ROM]</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF3">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="reference0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Bastiaanse</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Jonkers</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Verb retrieval in action naming and spontaneous speech in agrammatic and anomic aphasia</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Aphasiology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>951</sb:first-page>
+                              <sb:last-page>969</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF4">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="reference0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.S.</ce:given-name>
+                                 <ce:surname>Berndt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.N.</ce:given-name>
+                                 <ce:surname>Haendiges</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.C.</ce:given-name>
+                                 <ce:surname>Mitchum</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Sandson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Verb retrieval in aphasia: 2. Relationship to sentence processing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Brain and Language</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>107</sb:first-page>
+                              <sb:last-page>137</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF5">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="reference0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Bird</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Franklin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Cinderella revisited: A comparison of fluent and non-fluent aphasic speech</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Neurolinguistics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>187</sb:first-page>
+                              <sb:last-page>206</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF6">
+                     <ce:label>6</ce:label>
+                     <sb:reference id="reference0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.D.</ce:given-name>
+                                 <ce:surname>Breedin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.M.</ce:given-name>
+                                 <ce:surname>Saffran</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.B.</ce:given-name>
+                                 <ce:surname>Coslett</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Reversal of the concreteness effect in a patient with semantic dementia</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Cognitive Neuropsychology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>617</sb:first-page>
+                              <sb:last-page>660</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF7">
+                     <ce:label>7</ce:label>
+                     <sb:reference id="reference0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.D.</ce:given-name>
+                                 <ce:surname>Breedin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.M.</ce:given-name>
+                                 <ce:surname>Saffran</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.F.</ce:given-name>
+                                 <ce:surname>Schwartz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Semantic factors in verb retrieval: An effect of complexity</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Brain and Language</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>63</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>31</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF8">
+                     <ce:label>8</ce:label>
+                     <sb:reference id="reference0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Cipolotti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Warrington</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Semantic memory and reading abilities: A case report</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of the International Neuropsychological Society</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>104</sb:first-page>
+                              <sb:last-page>110</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF9">
+                     <ce:label>9</ce:label>
+                     <sb:reference id="reference0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Croisile</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Ska</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Brabant</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Duchene</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Lepage</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Aimard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Trillet</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Comparative study of oral and written picture description in patients with Alzheimer's disease</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Brain and Language</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>19</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF10">
+                     <ce:label>10</ce:label>
+                     <sb:reference id="reference0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Daniele</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>Silveri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Giustolisi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Gainotti</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Category-specific deficits for grammatical classes of words: Evidence for possible anatomical correlates</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Italian Journal of Neurological Sciences</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>87</sb:first-page>
+                              <sb:last-page>94</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF11">
+                     <ce:label>11</ce:label>
+                     <sb:reference id="reference0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Daniele</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Giustolisi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>Silveri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Colosimo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Gainotti</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Evidence for a possible neuroanatomical basis for lexical processing of nouns and verbs</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Neuropsychologia</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1325</sb:first-page>
+                              <sb:last-page>1341</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF12">
+                     <ce:label>12</ce:label>
+                     <sb:reference id="reference0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.W.</ce:given-name>
+                                 <ce:surname>Ellis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Miller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Sin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Wernicke's aphasia and normal language processing: A case study in cognitive neuropsychology</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Cognition</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>111</sb:first-page>
+                              <sb:last-page>144</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF13">
+                     <ce:label>13</ce:label>
+                     <sb:reference id="reference0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Evans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Heggs</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Antoun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Hodges</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Progressive prosopagnosia associated with selective right temporal lobe atrophy: A new syndrome?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Brain</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>118</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>13</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF14">
+                     <ce:label>14</ce:label>
+                     <sb:reference id="reference0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Gainotti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>Silveri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Daniele</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Giustolisi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Neuroanatomical correlates of category-specific semantic disorders: A critical survey</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Memory</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>247</sb:first-page>
+                              <sb:last-page>264</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF15">
+                     <ce:label>15</ce:label>
+                     <sb:reference id="reference0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Giles</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Patterson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Hodges</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Performance on the Boston Cookie Theft picture description task in patients with early dementia of the Alzheimer's type: Missing information</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Aphasiology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>395</sb:first-page>
+                              <sb:last-page>408</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF16">
+                     <ce:label>16</ce:label>
+                     <sb:reference id="reference0145">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Goodglass</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Kaplan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>The assessment of aphasia and related disorders</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1983</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Lea &amp; Febiger</sb:name>
+                                 <sb:location>Philadelphia</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF17">
+                     <ce:label>17</ce:label>
+                     <sb:reference id="reference0155">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.S.</ce:given-name>
+                                 <ce:surname>Graham</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Hodges</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Differentiating the roles of the hippocampal complex and the neocortex in long-term memory storage: Evidence from the study of semantic dementia and Alzheimer's disease</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Neuropsychology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>77</sb:first-page>
+                              <sb:last-page>89</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF18">
+                     <ce:label>18</ce:label>
+                     <sb:reference id="reference0165">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.S.</ce:given-name>
+                                 <ce:surname>Graham</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Lambon Ralph</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Hodges</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Determining the impact of autobiographical experience on “meaning”: New insights from investigating sports related vocabulary and knowledge in two cases with semantic dementia</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Cognitive Neuropsychology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>801</sb:first-page>
+                              <sb:last-page>837</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF19">
+                     <ce:label>19</ce:label>
+                     <sb:reference id="reference0175">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Graham</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Patterson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Hodges</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Progressive pure anomia: Insufficient activation of phonology by meaning</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Neurocase</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>25</sb:first-page>
+                              <sb:last-page>38</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF20">
+                     <ce:label>20</ce:label>
+                     <sb:reference id="reference0185">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.L.</ce:given-name>
+                                 <ce:surname>Graham</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Patterson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Hodges</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Progressive dysgraphia: Co-occurrence of central and peripheral impairments</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Cognitive Neuropsychology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>975</sb:first-page>
+                              <sb:last-page>1005</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF21">
+                     <ce:label>21</ce:label>
+                     <sb:reference id="reference0195">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Hesketh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.V.M.</ce:given-name>
+                                 <ce:surname>Bishop</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Agrammatism and adaptation theory</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Aphasiology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>49</sb:first-page>
+                              <sb:last-page>80</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF22">
+                     <ce:label>22</ce:label>
+                     <sb:reference id="reference0205">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Hodges</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Graham</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Patterson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Charting the progression in semantic dementia: Implications for the organisation of semantic memory</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Memory</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>463</sb:first-page>
+                              <sb:last-page>495</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF23">
+                     <ce:label>23</ce:label>
+                     <sb:reference id="reference0215">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Hodges</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Patterson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Is semantic memory consistently impaired early in the course of Alzheimer's disease? Neuroanatomical and diagnostic implications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Neuropsychologia</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>441</sb:first-page>
+                              <sb:last-page>459</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF24">
+                     <ce:label>24</ce:label>
+                     <sb:reference id="reference0225">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Hodges</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Patterson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Non-fluent progressive aphasia and semantic dementia: A comparative neuropsychological study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of the International Neuropsychological Society</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>511</sb:first-page>
+                              <sb:last-page>524</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF25">
+                     <ce:label>25</ce:label>
+                     <sb:reference id="reference0235">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Hodges</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Patterson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Oxbury</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Funnell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Semantic dementia: Progressive fluent aphasia with temporal lobe atrophy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Brain</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>115</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1783</sb:first-page>
+                              <sb:last-page>1806</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF26">
+                     <ce:label>26</ce:label>
+                     <sb:reference id="reference0245">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Howard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Patterson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>The Pyramids and Palm Trees Test</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1992</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Thames Valley Test Co</sb:name>
+                                 <sb:location>Bury St. Edmonds</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF27">
+                     <ce:label>27</ce:label>
+                     <sb:reference id="reference0255">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Howard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Patterson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Franklin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Morton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Orchard-Lisle</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Variability and consistency in picture naming by aphasic patients</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>E.</ce:given-name>
+                                    <ce:surname>Rose</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Advances in neurology, Vol. 42, Progress in aphasiology</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1984</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Raven Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>263</sb:first-page>
+                              <sb:last-page>276</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF28">
+                     <ce:label>28</ce:label>
+                     <sb:reference id="reference0265">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Jonkers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Bastiaanse</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>How selective are selective word class deficits? Two case studies of action and object naming</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Aphasiology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>245</sb:first-page>
+                              <sb:last-page>256</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF29">
+                     <ce:label>29</ce:label>
+                     <sb:reference id="reference0275">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kay</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.W.</ce:given-name>
+                                 <ce:surname>Ellis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A cognitive neuropsychological case study of anomia: Implications for psychological models of word retrieval</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Brain</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>110</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>613</sb:first-page>
+                              <sb:last-page>629</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF30">
+                     <ce:label>30</ce:label>
+                     <sb:reference id="reference0285">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.G.</ce:given-name>
+                                 <ce:surname>Kitchener</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Hodges</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Impaired knowledge of famous people and events with intact autobiographical memory in a case of progressive right temporal lobe degeneration: Implications for the organisation of remote memory</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Cognitive Neuropsychology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>589</sb:first-page>
+                              <sb:last-page>607</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF31">
+                     <ce:label>31</ce:label>
+                     <sb:reference id="reference0295">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Knott</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Patterson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Hodges</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Lexical and semantic binding effects in short-term memory: Evidence from semantic dementia</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Cognitive Neuropsychology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1165</sb:first-page>
+                              <sb:last-page>1218</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF32">
+                     <ce:label>32</ce:label>
+                     <sb:reference id="reference0305">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Lambon Ralph</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.S.</ce:given-name>
+                                 <ce:surname>Graham</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.W.</ce:given-name>
+                                 <ce:surname>Ellis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hodges</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Naming in semantic dementia: What matters?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Neuropsychologia</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>775</sb:first-page>
+                              <sb:last-page>784</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF33">
+                     <ce:label>33</ce:label>
+                     <ce:other-ref id="oref0010">
+                        <ce:textref>Lambon Ralph, M. A, McClelland, J. L, Patterson, K. &amp;, Hodges, J. R. No right to speak? The relationship between semantic impairment and anomia—Evidence from semantic dementia and a computational model. [submitted for publication]</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF34">
+                     <ce:label>34</ce:label>
+                     <sb:reference id="reference0315">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Marshall</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Disorders in the expression of language</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>J.</ce:given-name>
+                                    <ce:surname>Morton</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>J.C.</ce:given-name>
+                                    <ce:surname>Marshall</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Psycholinguistics series</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1977</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Elek Science</sb:name>
+                                 <sb:location>London</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF35">
+                     <ce:label>35</ce:label>
+                     <sb:reference id="reference0325">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Marshall</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Chiat</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Robson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Pring</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Calling a salad a federation: An investigation of semantic jargon. Part 2— Verbs</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Neurolinguistics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>251</sb:first-page>
+                              <sb:last-page>260</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF36">
+                     <ce:label>36</ce:label>
+                     <sb:reference id="reference0335">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Marshall</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Pring</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Chiat</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Verb retrieval and sentence production in aphasia</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Brain and Language</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>63</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>159</sb:first-page>
+                              <sb:last-page>183</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF37">
+                     <ce:label>37</ce:label>
+                     <sb:reference id="reference0345">
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>MRC Psycholinguistic Database</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1997</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Med. Res. Council</sb:name>
+                                 <sb:location>Oxford</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF38">
+                     <ce:label>38</ce:label>
+                     <sb:reference id="reference0355">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.F.</ce:given-name>
+                                 <ce:surname>Mendez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ashlamendez</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Differences between multi-infarct dementia and Alzheimer's disease on unstructured neuropsychological tasks</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Clinical and Experimental Psychology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>923</sb:first-page>
+                              <sb:last-page>932</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF39">
+                     <ce:label>39</ce:label>
+                     <sb:reference id="reference0365">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Miceli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Laudanna</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Burani</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Batteria per l'analisi dei deficit afasici</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1991</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Associazione per le ricerche neuropsicologiche</sb:name>
+                                 <sb:location>Milan</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF40">
+                     <ce:label>40</ce:label>
+                     <sb:reference id="reference0375">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Mummery</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Patterson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.S.</ce:given-name>
+                                 <ce:surname>Wise</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Price</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Hodges</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Disrupted temporal lobe connections in semantic dementia</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Brain</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>122</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>61</sb:first-page>
+                              <sb:last-page>73</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF41">
+                     <ce:label>41</ce:label>
+                     <sb:reference id="reference0385">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Rochon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.M.</ce:given-name>
+                                 <ce:surname>Saffran</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.S.</ce:given-name>
+                                 <ce:surname>Berndt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.F.</ce:given-name>
+                                 <ce:surname>Schwartz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Quantitative production analysis: Norming and reliability data</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Brain and Language</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>65</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10</sb:first-page>
+                              <sb:last-page>13</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF42">
+                     <ce:label>42</ce:label>
+                     <sb:reference id="reference0395">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.M.</ce:given-name>
+                                 <ce:surname>Saffran</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.S.</ce:given-name>
+                                 <ce:surname>Berndt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.F.</ce:given-name>
+                                 <ce:surname>Schwartz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A quantitative analysis of agrammatic production: procedure and data</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Brain and Language</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>440</sb:first-page>
+                              <sb:last-page>479</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF43">
+                     <ce:label>43</ce:label>
+                     <sb:reference id="reference0405">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Snowden</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Goulding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Neary</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Semantic dementia: A form of circumscribed cerebral atrophy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Behavioural Neurology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>167</sb:first-page>
+                              <sb:last-page>182</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF44">
+                     <ce:label>44</ce:label>
+                     <sb:reference id="reference0415">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.K.</ce:given-name>
+                                 <ce:surname>Tomoeda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.A.</ce:given-name>
+                                 <ce:surname>Bayles</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.W.</ce:given-name>
+                                 <ce:surname>Trosset</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Azuma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>McGeagh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Cross-sectional analysis of Alzheimer disease effects on oral discourse in a picture description task</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Alzheimer's Disease and Associated Disorders</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>204</sb:first-page>
+                              <sb:last-page>215</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF45">
+                     <ce:label>45</ce:label>
+                     <sb:reference id="reference0425">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.K.</ce:given-name>
+                                 <ce:surname>Tyler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.E.</ce:given-name>
+                                 <ce:surname>Moss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Patterson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Hodges</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The gradual deterioration of syntax and semantics in a patient with progressive aphasia</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Brain and Language</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>426</sb:first-page>
+                              <sb:last-page>476</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF46">
+                     <ce:label>46</ce:label>
+                     <sb:reference id="reference0435">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.K.</ce:given-name>
+                                 <ce:surname>Tyler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.E.</ce:given-name>
+                                 <ce:surname>Moss</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Going, going, gone . . . ? Implicit and explicit tests of conceptual knowledge in a longitudinal study of semantic dementia</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Neuropsychologia</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1313</sb:first-page>
+                              <sb:last-page>1323</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF47">
+                     <ce:label>47</ce:label>
+                     <sb:reference id="reference0445">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.K.</ce:given-name>
+                                 <ce:surname>Warrington</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The selective impairment of semantic memory</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Quarterly Journal of Experimental Psychology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>635</sb:first-page>
+                              <sb:last-page>657</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="RF48">
+                     <ce:label>48</ce:label>
+                     <sb:reference id="reference0455">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.B.</ce:given-name>
+                                 <ce:surname>Zingeser</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.S.</ce:given-name>
+                                 <ce:surname>Berndt</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Retrieval of nouns and verbs in agrammatism and anomia</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Brain and Language</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>14</sb:first-page>
+                              <sb:last-page>32</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

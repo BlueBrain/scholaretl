@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [v0.0.5]
+
+### Added
+- (no feature) make sure to add `latest` tag in dockerhub
+
 ## [v0.0.4]
 
 ### Added

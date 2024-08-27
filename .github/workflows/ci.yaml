@@ -96,5 +96,5 @@ jobs:
             mkdocs-material-
       - name: Build the documentation
         run: |
-            pip install mkdocs-material 
+            pip install mkdocs-material mkdocstrings[python]
             mkdocs gh-deploy --force

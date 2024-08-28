@@ -8,7 +8,7 @@ This package is an SDK (software development kit) that allows for easy
 parsing of scientific articles from different sources.
 
 Here are all the pages:
-  - [Examples](../examples.md)
-  - [Endpoints](../endpoints.md)
-  - [Application Setup](../setup.md)
-  - [Reference](../reference.md)
+  - [Examples](./examples.md)
+  - [Endpoints](./endpoints.md)
+  - [Application Setup](./setup.md)
+  - [Reference](./reference.md)

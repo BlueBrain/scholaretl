@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [v0.0.6] - 30.10.2024
+
+### Added
+- Auto push to ecr.
+
 ## [v0.0.5]
 
 ### Added

@@ -1,3 +1,7 @@
+> [!WARNING]
+> The Blue Brain Project concluded in December 2024, so development has ceased under the BlueBrain GitHub organization.
+> Future development will take place at: https://github.com/openbraininstitute/scholaretl
+
 # Scholaretl
 
 An Extract, Transfrom and Load (ETL) API made to parse scientific papers. This package is meant to be used with scholarag, our Retreival Augmented Generation (RAG) tool. It is mainly used to parse scientific paper coming from different sources, to make it compatible with ususal databases.
